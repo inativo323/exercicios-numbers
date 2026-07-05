@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test01": "npx jest exercicios/exercicio01/index.test.js",
+    "test02": "npx jest exercicios/exercicio02/index.test.js",
+    "test03": "npx jest exercicios/exercicio03/index.test.js",
+    "test04": "npx jest exercicios/exercicio04/index.test.js"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
