@@ -24,7 +24,7 @@ saída -> [ 1, 2, 3 ]
 
 Exercício 04
 
-Deve verificar se o item é um número e se caso for um número, deve transformar em string
+Deve verificar se o item é um número e se caso for um número, deve transformar em string.
 
 entrada -> ['x', true, '10', 2]
 
