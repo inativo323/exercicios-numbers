@@ -1,5 +1,5 @@
 function transformIntNumbers(numbers) {
-    //code aqui
+    //code aqu
 }
 
 console.log(transformIntNumbers([10, 30, 40]));
